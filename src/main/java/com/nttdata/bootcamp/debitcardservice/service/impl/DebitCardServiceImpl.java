@@ -87,7 +87,7 @@ public class DebitCardServiceImpl implements DebitCardService{
 	                            .then(); // "then()" para retornar un Mono<Void>
 	                    })
 	                    .doOnError(error -> {
-	                        // Lógica para manejar errores "aun no se sabe como realizar esto"
+	                        // Lógica para manejar errores "aun no se sabe como manejar los errores"
 	                    })
 	                    .subscribe();
 	            } catch (Exception e) {
