@@ -12,9 +12,6 @@ public class DebitCardServiceApplication {
 		SpringApplication.run(DebitCardServiceApplication.class, args);
 		//agregando comentario numero 1 
 		//agregando ortro comentario al commitgit
-		//agregando ortro comentario al commitgit2
-		//agregando ortro comentario al commitgit3
-		//agregando ortro comentario al commitgit4
 	}
 
 }
